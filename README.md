@@ -4,5 +4,4 @@ Welcome to this page, here you can meet all my selfmade warriors and you can fin
 
 ![Duskstripe] ( WarriorSchorsstreep )
 
-Duskstripe
-Gender: Male
+
