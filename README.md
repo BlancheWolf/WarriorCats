@@ -2,16 +2,16 @@
 
 Welcome to this page, here you can meet all my selfmade warriors and you can find out who they are.
 
-Spottedfur<br>
-Gender: Female
-Color: Lightgrey she-cat with darkgrey spots and stripes
-Personality: Kindly, faithfully and brave
-Rank: Warrior
-Mate: - 
-Kits: - 
+# Spottedfur<br>
+Gender: Female<br>
+Color: Lightgrey she-cat with darkgrey spots and stripes<br>
+Personality: Kindly, faithfully and brave<br>
+Rank: Warrior<br>
+Mate: - <br>
+Kits: - <br>
 
-Brookstorm
-Gender: Male
+Brookstorm<br>
+Gender: Male<br>
 Color: Brown with lightbrown stripes and yellow eyes
 Personality: A little bit bossy, but for the Clan he does everything
 Rank: Warrior
