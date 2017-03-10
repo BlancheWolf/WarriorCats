@@ -2,7 +2,7 @@
 
 Welcome to this page, here you can meet all my selfmade warriors and you can find out who they are.
 
-Spottedfur
+Spottedfur<br>
 Gender: Female
 Color: Lightgrey she-cat with darkgrey spots and stripes
 Personality: Kindly, faithfully and brave
