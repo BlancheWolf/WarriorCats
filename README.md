@@ -18,18 +18,19 @@ Rank: Warrior<br>
 Mate: -<br>
 Kits: -<br>
 
-Mistylight
-Gender: Female
-Color: Small bluegrey with great grey eyes
-Personality: Shy and reserved
-Rank: Queen
-Mate: Rainwish
-Kits: Mistykit and Rainkit
+Rainwish<br>
+Gender: Male<br>
+Color: Darkgrey tom with darkblue eyes<br>
+Personality: Brave and joyful<br>
+Rank: Warrior<br>
+Mate: Mistylight<br>
+Kits: Mistykit and Rainkit<br>
 
-Rainwish
-Gender: Male
-Color: Darkgrey tom with darkblue eyes
-Personality:
-Rank:
-Mate:
-Kits:
+Mistylight<br>
+Gender: Female<br>
+Color: Small bluegrey with great grey eyes<br>
+Personality: Shy and reserved<br>
+Rank: Queen<br>
+Mate: Rainwish<br>
+Kits: Mistykit and Rainkit<br>
+
