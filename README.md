@@ -28,7 +28,7 @@ Kits: Mistykit and Rainkit<br>
 
 Mistylight<br>
 Gender: Female<br>
-Color: Small bluegrey with great grey eyes<br>
+Color: Small bluegrey she-cat with great grey eyes<br>
 Personality: Shy and reserved<br>
 Rank: Queen<br>
 Mate: Rainwish<br>
