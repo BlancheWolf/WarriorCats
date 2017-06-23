@@ -34,3 +34,10 @@ Rank: Queen<br>
 Mate: Rainwish<br>
 Kits: Mistykit and Rainkit<br>
 
+Aldersnow<br>
+Gender: Male<br>
+Color: Dark brown tabby tom with black stripes and lightblue eyes<br>
+Personality: <br>
+Rank: <br>
+Mate: <br>
+Kits: <br>
